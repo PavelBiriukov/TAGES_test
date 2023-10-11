@@ -70,15 +70,3 @@ const generateUserArray = async () => { // Функцыя генерации use
 };
 
 generateUserArray();
-
-const App = () => {
-  return (
-    <div>
-      <h1>
-        Тестовое задание на вакансию JavaScript разработчи компания TAGES
-      </h1>
-    </div>
-  );
-};
-
-export default App;
